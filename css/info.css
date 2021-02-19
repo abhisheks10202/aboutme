@@ -1,0 +1,98 @@
+
+
+#top{
+	width: 1350px;
+	height: 200px;
+	/*background-color: aqua;*/
+}
+
+
+#abhi
+{
+font-size: 32px;
+width: 400px;
+height:120px;
+font-family:algerian;
+/*background-color: yellow;*/
+float:left;
+margin-top: 80PX;
+text-align:center;
+/* color:#3DCFD3 */
+
+}
+#address{
+	float:right;
+	width:500px;
+	height:200px;
+	/*background-color: pink;*/
+	/*margin-right:400px;*/
+}
+#yoyo{
+	float: left;
+	width: 350px;
+	height:150px;
+	/*background-color: green;*/
+	margin-top: 50PX;
+}
+#dp{
+	width: 150px;
+	height: 180px;
+	float:right;
+	margin-top: 20PX;
+}
+.column2
+{
+width: 1350px;
+	height: 120px;
+	/*background-color: aqua;*/
+
+}
+.objective
+{
+font-size: 16px;
+width: 400px;
+height:100px;
+font-family:calibri;
+font-weight: bold;
+/*background-color: yellow;*/
+float:left;
+margin-top: 20PX;
+text-align:center;
+}
+.osummary{
+	float:right;
+	width:700px;
+	height:100px;
+	/*background-color: pink;*/
+	text-align:left;
+	/*margin-right:400px;*/
+	margin-top: 20PX;
+}
+#column3
+{
+width: 1350px;
+	height: 180px;
+	/*background-color: aqua;*/
+
+}
+#education
+{
+font-size: 16px;
+width: 400px;
+height:160px;
+font-family:calibri;
+/*background-color: yellow;*/
+float:left;
+margin-top: 20PX;
+text-align:center;
+font-weight: bold;
+}
+#esummary{
+	float:right;
+	width:700px;
+	height:160px;
+	/*background-color: pink;*/
+	text-align:left;
+	/*margin-right:400px;*/
+	margin-top: 20PX;
+}
